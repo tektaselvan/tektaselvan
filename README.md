@@ -1,16 +1,61 @@
-<h1 align="center">Hi 👋, I'm Elvan Tektaş</h1>
-<h3 align="center">I am a graduate of Gaziantep University Computer Programming. I have been working as a full-stack developer for about 3 years. In this area, I share with you the projects I have done while improving myself.</h3>
+<div align="center">
+    <h2><b>About</b></h2>
+    <img src="https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s"
+        width="80px" />
+    <br />
+    <samp> <i> I'm Elvan Tektaş from Turkey </i> </samp> <br />
+    <samp> 👨‍💻 <i> a Coder, an Programmer. </i> </samp> <br />
+    <samp> 👻 ∂єѕ𝒾ɠи yσυя ωαy </samp> <br />
+    <samp> 🗨️ тнє cσ∂є вєи∂єя  </samp> <br />
+    <br />
+    <br />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tektaselvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tektaselvan" height="30" width="40" /></a>
-</p>
+<div>
+    
+```javascript
+const PROFILE = {
+    name: "Elvan Tektaş",
+    nick: "tektaselvan",
+    gender: "Female",
+    hobbies: ["Coding", "Music", "Movie"],
+};
+```
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tektaselvan&show_icons=true&locale=en&layout=compact" alt="tektaselvan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tektaselvan&show_icons=true&locale=en" alt="tektaselvan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tektaselvan&" alt="tektaselvan" /></p>
+<div align="center">
+    <h2><b>Languages and Tools</b></h2>
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+    <img height="32"
+        src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+    <img height="32"
+        src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
+    <img height="32" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+</div>
