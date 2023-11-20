@@ -40,9 +40,8 @@ const PROFILE = {
     <img height="32"
         src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/html5/html5.png" />
     <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql-server/sql-server.png" />
-    <img height="32"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+    
     <img height="32"
         src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png" />
     <img height="32"
