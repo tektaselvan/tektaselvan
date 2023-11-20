@@ -1,8 +1,6 @@
 <div align="center">
     <h2><b>About</b></h2>
-    
-    <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1700493036~exp=1700493636~hmac=fa4115073488de3fa41d05f7e0e3d6d0cedab50a4f0b99c2be154bce781e119f"
-        width="80px" />
+    <iframe src="https://giphy.com/embed/XE90Rm9DzCVfHb7zTe" width="340" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
     <br />
     <samp> <i> I'm Elvan Tektaş from Turkey </i> </samp> <br />
     <samp> 👨‍💻 <i> a Coder, an Programmer. </i> </samp> <br />
