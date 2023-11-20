@@ -1,7 +1,7 @@
 <div align="center">
     <h2><b>About</b></h2>
     
-    <img src="[https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s](https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1700493036~exp=1700493636~hmac=fa4115073488de3fa41d05f7e0e3d6d0cedab50a4f0b99c2be154bce781e119f)"
+    <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1700493036~exp=1700493636~hmac=fa4115073488de3fa41d05f7e0e3d6d0cedab50a4f0b99c2be154bce781e119f"
         width="80px" />
     <br />
     <samp> <i> I'm Elvan Tektaş from Turkey </i> </samp> <br />
