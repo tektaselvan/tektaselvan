@@ -3,9 +3,7 @@
  <img src="https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s"
         width="80px" />    <br />
     <samp> <i> I'm Elvan Tektaş from Turkey </i> </samp> <br />
-    <samp> 👨‍💻 <i> a Coder, an Programmer. </i> </samp> <br />
-    <samp> 👻 ∂єѕ𝒾ɠи yσυя ωαy </samp> <br />
-    <samp> 🗨️ тнє cσ∂є вєи∂єя  </samp> <br />
+    <samp> 👨‍💻 <i> Computer Programmer. </i> </samp> <br />
     <br />
     <br />
 </div>
