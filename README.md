@@ -1,8 +1,7 @@
 <div align="center">
     <h2><b>About</b></h2>
- <img src="https://media3.giphy.com/media/HEPwfdu6T6svpPE1eN/200.webp?cid=ecf05e47j99y9mlzfk42vy8ujkcf5ei98ztta9mkt7o8mwlm&rid=200.webp&ct=s"
-        width="80px" />    <br />
-    <samp> <i> I'm Elvan Tektaş from Turkey </i> </samp> <br />
+   <br />
+    <samp> <i> I'm Elvan Tektaş </i> </samp> <br />
     <samp> 👨‍💻 <i> Computer Programmer. </i> </samp> <br />
     <br />
     <br />
